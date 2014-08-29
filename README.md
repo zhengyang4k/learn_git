@@ -16,3 +16,9 @@ $ git push -u origin master
 ```
 
 ## Basic commands
+$ git add README.md
+$ git commit -m"message"
+$ git push
+# add and commit together
+$ git commit -am"message"
+
