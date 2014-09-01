@@ -17,7 +17,7 @@ $ git add README.md
 # commit to master (default), this will create master branch
 $ git commit -m"initial commit"
 # push to remote, and setup upstream
-$ git push -u origin master
+$ git push -u origin master # first time only
 ```
 
 ## Basic commands
