@@ -17,6 +17,8 @@ $ git push -u origin master # -u stand for upstream
 
 ## Basic commands
 ```bash
+# checking status of current branch
+$ git status
 $ git add README.md
 $ git commit -m"message"
 $ git push
