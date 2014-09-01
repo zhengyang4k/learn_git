@@ -15,7 +15,7 @@ $ git remote add origin git@github.com:zhengyang4k/learn_git.git
 $ vi README.md
 $ git add README.md
 # commit to master (default), this will create master branch
-$ git commit -m"initial commit"
+$ git commit -m"initial commit" # if -m is ommited, default text editor will be open for entering message
 # push to remote, and setup upstream
 $ git push -u origin master # -u stand for upstream, first time only
 ```
