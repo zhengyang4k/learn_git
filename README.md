@@ -12,7 +12,7 @@ $ git remote add origin git@github.com:zhengyang4k/learn_git.git
 $ vi README.md
 $ git add README.md
 $ git commit -m"initial commit"
-$ git push -u origin master
+$ git push -u origin master # -u stand for upstream
 ```
 
 ## Basic commands
