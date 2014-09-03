@@ -4,7 +4,7 @@ Learning Git
 This repo is used to explore 'new'(at least for me) git features.
 
 
-## shell primer
+## Shell primer
 
 ```bash
 $ # how to move faster in bash
@@ -15,6 +15,11 @@ $ # ctrl + r search for a recently typed command
 $ # ctrl + g cancel searching
 $ # ctrl + u clear up to the beginning of the line
 ```
+
+## zsh Setup
+```bash
+$ # install autojump a.k.a. j <term>
+$ # install oh-my-zsh and choose theme miloshadzic
 
 ## Create a git repo
 
