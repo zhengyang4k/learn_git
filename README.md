@@ -8,12 +8,20 @@ This repo is used to explore 'new'(at least for me) git features.
 
 ```bash
 $ # how to move faster in bash
+Moving:
 $ # ctrl + <left arraw>/<right arraw> moving one word at a time
-$ # ctrl + l clear screen
 $ # ctrl + a/e move to the begining/end of the current line
+
+Clearing:
+$ # ctrl + u clear up to the beginning of the line
+$ # ctrl + c cancel current line
+$ # ctrl + l clear screen
+$ # ctrl + w/k remove characters on the left/right
+$ # ctrl + y recall deleted command
+
+Searching:
 $ # ctrl + r search for a recently typed command
 $ # ctrl + g cancel searching
-$ # ctrl + u clear up to the beginning of the line
 ```
 
 ## zsh Setup
