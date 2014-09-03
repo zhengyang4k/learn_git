@@ -4,6 +4,18 @@ Learning Git
 This repo is used to explore 'new'(at least for me) git features.
 
 
+## shell primer
+
+```bash
+$ # how to move faster in bash
+$ # ctrl + <left arraw>/<right arraw> moving one word at a time
+$ # ctrl + l clear screen
+$ # ctrl + a/e move to the begining/end of the current line
+$ # ctrl + r search for a recently typed command
+$ # ctrl + g cancel searching
+$ # ctrl + u clear up to the beginning of the line
+```
+
 ## Create a git repo
 
 ```bash
