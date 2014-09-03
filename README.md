@@ -20,6 +20,7 @@ $ # ctrl + u clear up to the beginning of the line
 ```bash
 $ # install autojump a.k.a. j <term>
 $ # install oh-my-zsh and choose theme miloshadzic
+```
 
 ## Create a git repo
 
