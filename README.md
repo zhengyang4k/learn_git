@@ -30,6 +30,13 @@ $ # install autojump a.k.a. j <term>
 $ # install oh-my-zsh and choose theme miloshadzic
 ```
 
+## linux commands
+```bash
+$ find / -name <file_name>
+$ ps -ef | grep <process>
+$ sudo netstat -plnt # sudo is for the name
+```
+
 ## Create a git repo
 
 ```bash
