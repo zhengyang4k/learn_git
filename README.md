@@ -35,6 +35,8 @@ $ # install oh-my-zsh and choose theme miloshadzic
 $ find / -name <file_name>
 $ ps -ef | grep <process>
 $ sudo netstat -plnt # sudo is for the name
+$ zip -r out.zip *   # recursively zip all files/dirs into out.zip
+$ unzip in.zip       # unzip file
 ```
 
 ## Create a git repo
