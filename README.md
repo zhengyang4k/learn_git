@@ -34,9 +34,16 @@ $ # install oh-my-zsh and choose theme miloshadzic
 ```bash
 $ find / -name <file_name>
 $ ps -ef | grep <process>
-$ sudo netstat -plnt # sudo is for the name
-$ zip -r out.zip *   # recursively zip all files/dirs into out.zip
-$ unzip in.zip       # unzip file
+$ sudo netstat -plnt        # sudo is for the name
+$ zip -r out.zip *          # recursively zip all files/dirs into out.zip
+$ unzip in.zip              # unzip file
+$ gzip in.txt               # compress to .gz file
+$ gzip -d in.txt.gz         # uncompress
+$ gunzip in.txt.gz          # uncompress, same as above
+$ tar -zxvf file.tar.gz [-C dir] [fname]    # unarchive and uncompress for .tar.gz file
+$ tar -cvf out.tar in       # -c create a .tar file, -v verbose, -f output to file
+$ tar -cvzf out.tar.gz in   # -z using gzip for compression after archiving (.tgz)
+$ tar -cvfj out.tar.bz2 in  # -j using bz2 for compression after archiving (.tar.bz2, tar..tbz, tar..tb2)
 ```
 
 ## Create a git repo
