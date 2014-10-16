@@ -44,6 +44,7 @@ $ tar -zxvf file.tar.gz [-C dir] [fname]    # unarchive and uncompress for .tar.
 $ tar -cvf out.tar in       # -c create a .tar file, -v verbose, -f output to file
 $ tar -cvzf out.tar.gz in   # -z using gzip for compression after archiving (.tgz)
 $ tar -cvfj out.tar.bz2 in  # -j using bz2 for compression after archiving (.tar.bz2, tar..tbz, tar..tb2)
+$ sudo service network-manager restart # clear DNS cache
 ```
 
 ## Create a git repo
